@@ -1,0 +1,49 @@
+{
+    "hydrogen": {
+        "atomic symbol" : "H",
+        "atomic number" : 1,
+        "atomic mass" : 1,
+        "protons" : 1,
+        "neutrons" : 0,
+        "electrons" : 1,
+        "core electrons" : 0,
+        "valence electrons" : 1,
+        "valence" :  1
+    },
+
+    "helium" : {
+        "atomic symbol" : "He",
+        "atomic number" : 2,
+        "atomic mass" : 4,
+        "protons" : 2,
+        "neutrons" : 2,
+        "electrons" : 2,
+        "core electrons" : 0,
+        "valence electrons" : 2,
+        "valence" :  0
+    },
+
+    "lithium" : {
+        "atomic symbol" : "Li",
+        "atomic number" : 3,
+        "atomic mass" : 7,
+        "protons" : 3,
+        "neutrons" : 4,
+        "electrons" : 3,
+        "core electrons" : 2,
+        "valence electrons" : 1,
+        "valence" :  7
+    },
+
+    "berylium" : {
+        "atomic symbol" : "Be",
+        "atomic number" : 4,
+        "atomic mass" : 9,
+        "protons" : 4,
+        "neutrons" : 5,
+        "electrons" : 4,
+        "core electrons" : 2,
+        "valence electrons" : 2,
+        "valence" :  6
+    }
+}
